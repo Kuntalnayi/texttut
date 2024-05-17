@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/texttut/static/css/main.f855e6bc.css",
+    "main.js": "/texttut/static/js/main.ff6d390e.js",
+    "static/js/453.abd45b10.chunk.js": "/texttut/static/js/453.abd45b10.chunk.js",
+    "index.html": "/texttut/index.html",
+    "main.f855e6bc.css.map": "/texttut/static/css/main.f855e6bc.css.map",
+    "main.ff6d390e.js.map": "/texttut/static/js/main.ff6d390e.js.map",
+    "453.abd45b10.chunk.js.map": "/texttut/static/js/453.abd45b10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ff6d390e.js"
+  ]
+}
